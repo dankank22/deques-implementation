@@ -1,8 +1,8 @@
 ## CSE 373 - P1
 
-A set of programs implementing LinkedDeques with defined methods and constraints
+A set of programs implementing a Deque interface in LinkedDeque with defined methods and constraints
 
-Implemented a Deque interface in LinkedDeque, subject to the following additional requirements:
+### Implementation
 
 -*add, remove*, and *size* must run in constant time (operations must not involve any looping or recursion). Note: size is provided for you.
 -*get* must use iteration, not recursion.
