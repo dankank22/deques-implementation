@@ -1,4 +1,4 @@
-##CSE 373 - P1
+## CSE 373 - P1
 
 A set of programs implementing LinkedDeques with defined methods and constraints
 
