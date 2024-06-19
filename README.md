@@ -2,7 +2,7 @@
 
 A set of programs implementing LinkedDeques with defined methods and constraints
 
-Implement our Deque interface in LinkedDeque, subject to the following additional requirements:
+Implemented a Deque interface in LinkedDeque, subject to the following additional requirements:
 
 -*add, remove*, and *size* must run in constant time (operations must not involve any looping or recursion). Note: size is provided for you.
 -*get* must use iteration, not recursion.
